@@ -15,4 +15,7 @@ Soy un estudiante de Desarrollador de Software
 ---
 [![](https://komarev.com/ghpvc/?username=cristophergeovannylopezvalle&icon=0&color=0)](https://visitcount.itsvg.in)
 
+C:\Users\Ale56\OneDrive\Desktop\lobito\index.css
+C:\Users\Ale56\OneDrive\Desktop\lobito\index.html
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
